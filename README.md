@@ -76,5 +76,4 @@ Bench instance 3181222660 delete against 999.999               0.120000   0.1300
 Bench instance 3181222660 delete against 9.999.999             0.050000   0.060000   0.110000 (  0.237587)
 ```
 
-### Inserting (100.000.000) in a set contains integer numbers between 0 and 9.999.999
-### works around 6 time faster on Treap (0.11) compared with SortedSet (0.6)
+#### Inserting (100.000.000) in a set contains integer numbers between 0 and 9.999.999 works around 6 time faster on Treap (0.11) compared with SortedSet (0.6)
